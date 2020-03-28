@@ -1,3 +1,4 @@
+# Creator: Le Ngoc Hai 
 import math, random
 from collections import Counter
 from matplotlib import pyplot as plt
